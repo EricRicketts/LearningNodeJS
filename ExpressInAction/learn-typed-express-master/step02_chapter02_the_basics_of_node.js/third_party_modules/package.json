@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@types/mustache": "^0.8.31",
+    "mustache": "^2.3.2"
+  }
+}
